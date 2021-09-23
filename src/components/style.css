@@ -1,0 +1,12 @@
+/* I removed default bootstrap stylings of the anchor tag that I never preffered. */
+a{
+  text-decoration: none;
+  color: #212529
+}
+a:hover{
+  color: #212529
+}
+/* I assgned the elements rendering my projects a list-style */
+.project-list{
+  list-style: decimal;
+}
